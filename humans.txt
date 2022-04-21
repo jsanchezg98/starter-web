@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Juanes Sanchez   jsanchez@applaudostudios.dev	jsanchez33
 
 # THANKS
 
